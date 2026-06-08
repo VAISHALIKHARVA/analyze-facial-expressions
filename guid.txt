@@ -1,1 +1,3 @@
 uvicorn feature.app:app --reload
+
+pip install -r requirements.txt
